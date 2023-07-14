@@ -1,0 +1,50 @@
+* a{
+    text-decoration: none;
+}
+.mac{
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+}
+.mac h1{
+    font-size: 50px;
+}
+.mac1{
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
+.mac1 h6{
+    font-size: 20px;
+}
+.table h6{
+    font-size: 15px;
+    font-weight: 450;
+}
+#sound{
+    background-color: black;
+    color: white;
+}
+#sound #sound-text{
+    margin-top: 10%;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}  
+.end{
+    background-color: rgb(224, 224, 224);
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(123, 121, 121);
+}
+#edu a:hover{
+    text-decoration: underline;
+}

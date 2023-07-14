@@ -1,0 +1,52 @@
+* a{
+    text-decoration: none;
+}
+
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.container .center{
+    position: absolute;
+    font-size: 25px;
+    font-weight: 400;
+    top: 59%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+.container .airpod{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+.container .bottom1{
+    position: absolute;
+    bottom: 8px;
+    left: 40%;
+}
+.container .bottom{
+    position: absolute;
+    bottom: 8px;
+    left: 45%;
+}
+.container .airpodmax{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+.table h6{
+    font-size: 15px;
+    font-weight: 450;
+}
+.end{
+    background-color: rgb(224, 224, 224);
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(123, 121, 121);
+}

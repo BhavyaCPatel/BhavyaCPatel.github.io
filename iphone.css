@@ -1,0 +1,36 @@
+* a{
+    text-decoration: none;
+}
+.iphone{
+    background-color: black;
+    color: white;
+}
+.se h3{
+    margin-top: 60%;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.container .top-left {
+    position: absolute;
+    top: 30%;
+    left: 50px;
+}
+.container h1{
+    margin: 0px;
+}
+.table h6{
+    font-size: 15px;
+    font-weight: 450;
+}
+.end{
+    background-color: rgb(224, 224, 224);
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(123, 121, 121);
+}
+#edu a:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,35 @@
+* a{
+    text-decoration: none;
+}
+.item{
+    height: 510px;
+    width: 300px;
+    border: 0px;
+    box-shadow: 0px 0px 7px rgb(223, 221, 221);
+    border-radius: 5px;
+    margin-left: 34px;
+}
+.back{
+    background-color: black;
+    color: white;
+}
+.item .item-desc{
+    /* margin: 5px; */
+    padding: 8px;
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}  
+.end{
+    background-color: rgb(224, 224, 224);
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(123, 121, 121);
+}
