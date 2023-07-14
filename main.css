@@ -1,0 +1,55 @@
+* a{
+    text-decoration: none;
+}
+.iphone{
+    background-color: black;
+    color: white;
+}
+.iphone1{
+    background-color:#fbfbfd;
+}
+.watch{
+    background-color: black;
+    color: white;
+}
+.watch h6{
+    font-size: 25px;
+    font-weight:lighter;
+    margin-bottom: 0;
+}
+.watch h4{
+    font-weight:350;
+    margin-bottom: 0;
+}
+.watchacc{
+    background-color: black;
+    color: white;
+}
+.watchacc h4{
+    font-size: 15px;
+    margin-bottom: 0;
+}
+.navbar{
+    opacity: 0.9;
+}
+.image{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.bottom-right{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+.back{
+    background-color: rgb(224, 224, 224);
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(123, 121, 121);
+}
